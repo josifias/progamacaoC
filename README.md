@@ -15,3 +15,29 @@ Este repositório marca o início oficial dos meus estudos em programação! Hoj
 
 ---
 *Este é um projeto de aprendizado constante. Próximo passo: Entender variáveis e entrada de dados!*
+# 🚀 Aprendendo Variáveis e Tipos de Dados em C++
+
+Este repositório foi criado para registrar a minha jornada de aprendizado em programação, focando nos conceitos fundamentais de **variáveis** e **tipos de dados** utilizando a linguagem C++.
+
+## 📌 O que estou aprendendo?
+
+### 1. Variáveis
+Entendi que uma variável funciona como uma caixa na memória do computador onde podemos guardar uma informação para usar mais tarde. Em C++, aprendi a:
+* **Declarar** uma variável definindo seu tipo obrigatoriamente (Linguagem fortemente tipada).
+* **Atribuir** um valor usando o operador `=`.
+* **Manipular** os valores armazenados ao longo do código.
+
+### 2. Tipos de Dados em C++
+Cada informação guardada tem um tipo específico. Os principais tipos primitivos que estou estudando são:
+* `string` / `char`: Para textos e caracteres simples (ex: `"Olá, Mundo!"`, `'A'`).
+* `int`: Para números inteiros (ex: `10`, `-5`).
+* `float` / `double`: Para números com casas decimais (ex: `19.99`, `3.14`).
+* `bool`: Valores lógicos que representam apenas Verdadeiro (`true`) ou Falso (`false`).
+
+## 🛠️ Tecnologias Utilizadas
+* **Linguagem de Programação:** C++
+* Compilador (ex: GCC / G++)
+* Git e GitHub para controle de versão.
+
+---
+💡 *“A melhor forma de aprender a programar é praticando todos os dias!”*
